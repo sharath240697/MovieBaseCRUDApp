@@ -26,8 +26,8 @@
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<property name="url" value="jdbc:mysql://localhost:3306/movie_base" />
-		<property name="username" value="root" />
-		<property name="password" value="musicishope!!3" />
+		<property name="username" value="<database_username>" />
+		<property name="password" value="<database_password>" />
 	</bean>
 	
 	<bean id="SessionFactory" class="org.springframework.orm.hibernate5.LocalSessionFactoryBean">
