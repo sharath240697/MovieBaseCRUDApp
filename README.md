@@ -23,12 +23,19 @@ Database setup
 1.) Run the SQL commands listed in  movie_base_crud_app_sql_commands.txt one by one.
 
 Java Project setup
+
 1.) Create Dynamic Web Project in Eclipse
+
 2.) Clone the MovieBaseCRUDApp from git
+
 3.) Copy all the packages in src and paste in the new project created
+
 4.) Replace the folders of Web content of the project with the folders of web content from the cloned repo.
+
 5.) Update the Database username and password in JDBChelper.java (com.spring.helper)
+
 6.) Right click on project & select run on server.
+
 7.) open url http://localhost:<configure_port_number>/<Project_name>/
 
 
