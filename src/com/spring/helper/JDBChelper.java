@@ -11,8 +11,8 @@ public class JDBChelper
 	
   String driver = "com.mysql.jdbc.Driver";
   String url = "jdbc:mysql://localhost:3306/movie_base";
-  String user_name = 	"root";
-  String password = "musicishope!!3";
+  String user_name = 	"<user_name>";
+  String password = "<password>";
   Connection con = null;
   
   public JDBChelper()
