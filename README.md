@@ -59,7 +59,7 @@ Many learning materials were referenced during the process, hence all the credit
 
 4.) Replace the folders of Web content of the project with the folders of web content from the cloned repo.
 
-5.) Update the Database username and password in JDBChelper.java (com.spring.helper)
+5.) Update the Database username and password in JDBChelper.java (com.spring.helper) and sprinng-servlet.xml (WebContent/WEB-INF)
 
 6.) Right click on project & select run on server.
 
