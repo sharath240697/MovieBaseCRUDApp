@@ -19,7 +19,9 @@ Simple Java & JSPs based Web-application for users to maintain their movie base 
   - Tomcat (Ubuntu/MacOS) - https://linuxize.com/post/how-to-install-tomcat-9-on-ubuntu-18-04/
 
 **Steps**
+
 Database setup
+
 1.) Run the SQL commands listed in  movie_base_crud_app_sql_commands.txt one by one.
 
 Java Project setup
