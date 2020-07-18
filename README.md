@@ -20,11 +20,11 @@ Simple Java & JSPs based Web-application for users to maintain their movie base 
 
 **Steps to run the application:**
 
-Database setup
+**Database setup**
 
 1.) Run the SQL commands listed in  movie_base_crud_app_sql_commands.txt one by one.
 
-Java Project setup
+**Java Project setup**
 
 1.) Create Dynamic Web Project in Eclipse
 
