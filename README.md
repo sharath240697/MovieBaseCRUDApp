@@ -18,7 +18,7 @@ Simple Java & JSPs based Web-application for users to maintain their movie base 
   - MySQL (OSX/MacOS) - https://dev.mysql.com/doc/mysql-osx-excerpt/5.7/en/osx-installation-pkg.html
   - Tomcat (Ubuntu/MacOS) - https://linuxize.com/post/how-to-install-tomcat-9-on-ubuntu-18-04/
 
-**Steps**
+**Steps to run the application:**
 
 Database setup
 
