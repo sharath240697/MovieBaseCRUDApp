@@ -10,7 +10,7 @@ Simple Java & JSPs based Web-application for users to maintain their movie base 
  - Git tool knowledge & git profile
  - Best Practices
     * MVC programing pattern
-    * DRY Principles
+    * DRY Principle
  - Knowledge of frameworks & J2EE libraries
     * Core Spring (Spring configuration & annotation, Multipart file uploading)
     * Hibernate (ORM)
