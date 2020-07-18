@@ -1,0 +1,6 @@
+Database commands
+
+Database creation: Create movie_base;
+selecting the db created: Use movie_base;
+creating table to store user information: create table Registered_users (sl_no INT UNSIGNED AUTO_INCREMENT PRIMARY KEY, name varchar(200) not null,email varchar(200) not null unique, password varchar(200) not null);
+creating table to store movie info of users: create table Movies (sl_no INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,user_slno int unsigned,movie_name varchar(200) not null unique,user_comments varchar(200) not null,movie_rating Decimal(10,9) not null, FOREIGN KEY (user_slno) REFERENCES Registered_users(sl_no));
