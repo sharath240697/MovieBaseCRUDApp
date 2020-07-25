@@ -11,7 +11,7 @@ Simple Java & JSPs based Web-application for users to maintain their movie base 
  - Best Practices
     * Object Oriented Programimg 
     * MVC programing pattern
-    * DRY Principle
+    * DRY, DIP, SRP Principles
  - Knowledge of frameworks & J2EE libraries
     * Core Spring (Spring configuration & annotation, Multipart file uploading)
     * Hibernate (ORM)
